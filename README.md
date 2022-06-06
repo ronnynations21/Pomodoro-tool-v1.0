@@ -1,2 +1,3 @@
-# pomodoro-tool-v1.0
-My version 1.0 of the Pomodoro Tool for my personal study.
+# pomodoro-tool version 1.0
+# My version of the Pomodoro Clock App for to help me in my daily program of study
+
